@@ -1,0 +1,259 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+#bg_main_image {
+	height: 385px;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	padding: 0px;
+	margin-top: -50px;
+	clear: left;
+}
+#main_image {
+	width: 1004px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	padding: 0px;
+	margin-top: 0px;
+}
+
+.navlinks {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-image: url(images/px_navlinks_off.gif);
+	background-repeat: repeat;
+	float: left;
+	height: 21px;
+	width: 164px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.navlinks:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-image: url(images/px_navlinks_on.gif);
+	background-repeat: repeat;
+	float: left;
+	height: 21px;
+	width: 164px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#main_slider_btm {
+	text-align: center;
+	width: 100%;
+	position: absolute;
+	margin-top: -44px;
+}
+#page_title {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #3b3b3b;
+	text-decoration: none;
+	background-color: #FFFFFF;
+	background-image: url(images/page_title_right_icon.gif);
+	background-repeat: no-repeat;
+	background-position: right;
+	float: left;
+	height: 30px;
+	width: auto;
+	padding-right: 15px;
+	padding-left: 8px;
+	margin-left: 8px;
+}
+.subtitle {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #3b3b3b;
+	text-decoration: none;
+
+}
+.main_content {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: 18px;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #000000;
+	text-decoration: none;
+	text-align: justify;
+}
+.footer1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.footer1:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: uppercase;
+	color: #AC1314;
+	text-decoration: none;
+}
+.footer2 {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: uppercase;
+	color: #000000;
+	text-decoration: none;
+}
+.footer_link {
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: uppercase;
+	color: #AC1314;
+	text-decoration: underline;
+}
+
+
+/* imported */
+.featuredlinks
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	text-decoration:none;
+	line-height: normal;
+	font-weight: bold;
+	font-style: normal;
+	font-variant: normal;
+	text-transform: none;
+	text-align: center;
+}
+.featuredlinks:hover
+{
+	font-weight:bold;
+	color: #FFFF00;
+}
+.submit_btn {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: uppercase;
+	color: #CCCCCC;
+	text-decoration: none;
+	background-image: url(images/btn_submit_bg.gif);
+	background-repeat: no-repeat;
+	text-align: center;
+	width: 177px;
+	float: left;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	height: 21px;
+}
+.submit_btn2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: uppercase;
+	color: #CCCCCC;
+	text-decoration: none;
+	background-image: url(images/btn_submit_bg.gif);
+	background-repeat: no-repeat;
+	text-align: center;
+	width: 177px;
+	height: 51px;
+	padding: 0px;
+}
+.textbox {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none; color: #FF0000; background-color: #FFFFFF; letter-spacing: normal; word-spacing: normal; white-space: normal; height: 15px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border: 1px #006B90 solid; width: auto; text-align: center}
+.button { font-family: arial; font-size: 10px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none; color: #FFFFFF; letter-spacing: normal; text-align: center; vertical-align: middle; word-spacing: normal; white-space: normal; height: 18px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border: 1px #FFFFFF solid; width: auto ; background-color:#006699}
+.pagetitle {  font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-style: normal; line-height: normal; font-weight: bold; font-variant: normal; text-transform: none; color: #AC1314}
+.mandatory {  font-family: arial; font-size: 11px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none; color: #FF0000}
+.form_textbox{
+	font-family: arial;
+	font-size: 14px;
+	color: #000000;
+	border: 1px #cccccc solid;
+	background-color:#FFFFFF;
+	padding: 3px;
+	width: 300px;
+}
+.bg_featured {  background-image: url(images/bg_featured.gif); height: 76px; width: 76px}
+.bg_product { background-image: url(images/bg_products.gif); height: 230px; width: 230px}
+.form_label {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none; color: #000000; background-color: #E5E4E4; height: 35px; padding-left: 10px; width: 30%; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; letter-spacing: normal; text-align: left; vertical-align: middle; word-spacing: normal; white-space: normal}
+.form_value { font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none; color: #000000; background-color: #F0F0F0; height: 35px; padding-left: 10px; width: 70%; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; letter-spacing: normal; text-align: left; vertical-align: middle; word-spacing: normal; white-space: normal}
+.bg_details { background-image: url(images/bg_detailproduct.gif); height: 200px; width: 200px}
+.bg_picture {
+	background-image: url(images/bg_products.gif);
+	height: 230px;
+	width: 230px;
+	background-position: center;
+}
+.image_border {
+	border: 1px solid #999999;
+}
+.fancybox {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 30px;
+	font-weight: normal;
+	text-transform: uppercase;
+	color: #333333;
+	text-decoration: none;
+}
+.fancybox:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 30px;
+	font-weight: normal;
+	text-transform: uppercase;
+	color:#990000;
+	text-decoration: none;
+}
